@@ -12,6 +12,7 @@ export const defaultSetting = {
 
 export const defaultMessage = `Powered by OpenAI 
 - 站点升级增加个人访问密码，多模型切换
+- 如需制作专属版chatgpt请添加微信qqqq0x咨询
 - 赞助请点这里https://postimg.cc/tZYBW0bj
 - [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。`
 
